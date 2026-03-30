@@ -26,7 +26,7 @@
         <!-- Telegram -->
        <a href="https://t.me/nelebe6" target="_blank"
    class="text-[#229ED9] hover:scale-110 transition-transform">
-  <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" viewBox="0 0 24 24">
+  <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" viewBox="0 0 24    24">
     <path d="M9.417 15.181l-.397 5.584c.568 0 .814-.244 1.109-.537l2.663-2.545 5.518 4.041c1.012.564 1.725.267 1.998-.931L21 4.308c.27-1.285-.923-1.86-2.01-1.32L3.5 9.5c-1.285.486-1.28 1.285-.18 1.61l4.11 1.28 9.55-5.99c.46-.29.88.18.44.48L9.417 15.181z"/>
   </svg>
 </a>
